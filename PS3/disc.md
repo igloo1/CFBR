@@ -1,7 +1,9 @@
 # <img width="50" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> College Football Revamped - PS3 (Disc Copy)
 
+---------
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
+---------
 
 ###### ---------
 ###### - If you already have HEN and multiMAN installed on your PS3, you can skip to <ins>step 2</ins>. 
@@ -25,4 +27,5 @@ Everything here is only needed for first time setup, aside from the console itse
 6) Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see files called `CFBR PS3 Easy Installer V3 Part A.pkg` and `CFBR PS3 Easy Installer V3 Part B.pkg`. Select Part A and wait for it to finish installing, then select Part B and wait for that to finish installing. Please note, Part A will take longer than Part B.
 7) Once both parts are finished installing, you can remove the USB drive. **MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC**. Now launch multiMAN. Simply launch the game by pressing X. It will kick you back out to the main PS3 menu, but you wil see a disc icon even though there is no disc inserted. Simply click on that disc icon and it will launch NCAA 14 with our mods installed!
 
+---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
