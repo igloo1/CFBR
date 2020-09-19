@@ -1,7 +1,7 @@
 # <img width="50" src="https://i.redd.it/g5476jkjqgh31.jpg"> College Football Revamped - PC (PSN Digital Store Copy)
 
 ### - These instructions are only for users who purchased a DIGITAL copy of NCAA Football 14 (game ID NPUB31137) on the PSN Store. 
-### - DO NOT USE THESE INSTRUCTIONS IF YOU HAVE A PHYSICAL COPY OF THE GAME. IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/igloo1/CFBR/edit/gh-pages/PC/disc.md).
+### - DO NOT USE THESE INSTRUCTIONS IF YOU HAVE A PHYSICAL COPY OF THE GAME. IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PC/disc.md).
 
 
 ## PC (PSN Store Digital Copy) Download Instructions:
