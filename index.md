@@ -11,13 +11,23 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 [Patch Notes](https://i.imgur.com/INAdo18.png)
 
 ## Follow us for important updates and information
-- [Discord](https://discord.com/invite/cfbr) - this is where we primarily provide help to users and answer various questions
-- [Twitter](https://twitter.com/CFBRevamped)
-- [Instagram](https://www.instagram.com/cfbrevamped/)
-- [YouTube](https://www.youtube.com/channel/UCCY9bWCdGvitI2YyO5o4sQg?)
+- <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr) - this is where we primarily provide help to users and answer various questions
+- <img width="20" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png"> [Twitter](https://twitter.com/CFBRevamped)
+- <img width="20" src="https://icon-library.com/images/62-instagram-512.png"> [Instagram](https://www.instagram.com/cfbrevamped/)
+- <img width="20" src="https://img.favpng.com/0/5/6/youtube-logo-png-favpng-9aSw7LevnfxZKMvi1vS7BATkQ.jpg"> [YouTube](https://www.youtube.com/channel/UCCY9bWCdGvitI2YyO5o4sQg?)
 
-## Installation Guide
-You **DO NOT** need V1 of the Easy Installer or any other mods installed before using V2 of the Easy Installer. Please click on the link below to jump to the appropriate instructions for your version of the game:
+# Installation Guide
+**You <ins>DO NOT</ins> need V1 or V2 of the Easy Installer or any other mods installed before using V2 of the Easy Installer.** 
+
+## Select your device
+| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://igloo1.github.io/CFBR/PC)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://igloo1.github.io/CFBR/PS3) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://igloo1.github.io/CFBR/XBOX) |
+|:---:|:---:|:---:|
+| [PC](https://igloo1.github.io/CFBR/PC) | [PS3](https://igloo1.github.io/CFBR/PS3) | [XBOX 360](https://igloo1.github.io/CFBR/XBOX) |
+
+
+
+
+Please click on the link below to jump to the appropriate instructions for your version of the game:
 
 - [<img width="20" src="https://i.redd.it/g5476jkjqgh31.jpg"> PC Disc Copy (BLUS31159) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-disc-copy-)
 - [<img width="20" src="https://i.redd.it/g5476jkjqgh31.jpg"> PC Digital PSN Store Copy (NPUB31137) Instructions](https://github.com/cfbrevamped/CFBR-Easy-Installer#pc-digital-psn-store-copy-)
