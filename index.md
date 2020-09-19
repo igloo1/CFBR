@@ -20,9 +20,9 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 **You <ins>DO NOT</ins> need V1 or V2 of the Easy Installer or any other mods installed before using V3 of the Easy Installer.** 
 
 ## Select Your Device - (PC, PS3, or XBOX 360)
-| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/igloo1/CFBR/edit/gh-pages/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/igloo1/CFBR/edit/gh-pages/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/igloo1/CFBR/edit/gh-pages/XBOX/index.md) |
+| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/igloo1/CFBR/blob/gh-pages/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/igloo1/CFBR/blob/gh-pages/XBOX/index.md) |
 |:---:|:---:|:---:|
-| [PC](https://github.com/igloo1/CFBR/edit/gh-pages/PC/index.md) | [PS3](https://github.com/igloo1/CFBR/edit/gh-pages/PS3/index.md) | [XBOX 360](https://github.com/igloo1/CFBR/edit/gh-pages/XBOX/index.md) |
+| [PC](https://github.com/igloo1/CFBR/blob/gh-pages/PC/index.md) | [PS3](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/index.md) | [XBOX 360](https://github.com/igloo1/CFBR/blob/gh-pages/XBOX/index.md) |
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
