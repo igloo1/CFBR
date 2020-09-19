@@ -1,11 +1,8 @@
-# <img width="50" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> College Football Revamped - PS3 (PSN Store Digital Copy)
+# <img width="50" src="https://media.playstation.com/is/image/SCEA/playstation-store-bag-spotlight-01-us-12jun17?$native_t$"> College Football Revamped - PS3 (PSN Store Digital Copy)
 
 ---------
 ### - These instructions are only for users who purchased a DIGITAL copy of NCAA Football 14 (game ID NPUB31137) on the PSN Store. 
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU HAVE A PHYSICAL COPY OF THE GAME. IF YOU ARE UNSURE, YOU SHOULD PROBABLY USE THE DISC INSTALLER [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/disc.md).
----------
-###### - If you already have HEN and multiMAN installed on your PS3, you can skip to <ins>step 2</ins>. 
-###### - If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to <ins>step 5</ins>.
 ---------
 
 ### Prerequisites:
@@ -16,6 +13,10 @@
 
 Everything here is only needed for first time setup, aside from the console itself of course.
 
+---------
+###### - If you already have HEN and multiMAN installed on your PS3, you can skip to <ins>step 2</ins>. 
+###### - If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to <ins>step 5</ins>.
+---------
 ## PS3 (PSN Store Digital Copy) Download Instructions:
 1) Follow [this great YouTube guide to install HEN and Multiman](https://www.youtube.com/watch?v=fOKemRHAZ3c) on your PS3. It should only take 30 minutes to an hour. **YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29**.
 2) Make sure your game is downloaded to your console as it would be normally if you wanted to play it.
