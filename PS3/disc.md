@@ -4,9 +4,6 @@
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
 ---------
-###### - If you already have HEN and multiMAN installed on your PS3, you can skip to <ins>step 2</ins>. 
-###### - If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to <ins>step 5</ins>.
----------
 
 ### Prerequisites:
 - PS3 console (any model)
@@ -16,6 +13,10 @@
 
 Everything here is only needed for first time setup, aside from the console itself of course.
 
+---------
+###### - If you already have HEN and multiMAN installed on your PS3, you can skip to <ins>step 2</ins>. 
+###### - If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to <ins>step 5</ins>.
+---------
 ## PS3 (Disc Copy) Download Instructions:
 1) Follow [this great YouTube guide to install HEN and multiMAN](https://www.youtube.com/watch?v=fOKemRHAZ3c) on your PS3. It should only take 30 minutes to an hour. **YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29**.
 2) Start up your PS3 console and click the "Enable HEN" button (if it fails try again until it works). Then place your game disc in your console and launch the multiMAN application you installed earlier. 
