@@ -4,7 +4,8 @@
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
 
 ###### ---------
-###### If you already have HEN and multiMAN installed on your PS3, you can skip to step 2. If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to step 5.
+###### - If you already have HEN and multiMAN installed on your PS3, you can skip to <ins>step 2</ins>. 
+###### - If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to <ins>step 5</ins>.
 ###### ---------
 
 ### Prerequisites:
