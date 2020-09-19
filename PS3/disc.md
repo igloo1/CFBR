@@ -1,4 +1,4 @@
-# <img width="20" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> College Football Revamped - PS3 (Disc Copy)
+# <img width="50" src="https://www.freepnglogos.com/uploads/playstation-png-logo/navy-playstation-png-logo-5.png"> College Football Revamped - PS3 (Disc Copy)
 
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
