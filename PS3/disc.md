@@ -3,9 +3,11 @@
 ### - These instructions are only for users with a physical disc copy of NCAA Football 14 (game ID BLUS31159). 
 ### - DO NOT USE THESE INSTRUCTIONS IF YOU BOUGHT THE GAME ON THE PSN STORE. CLICK [HERE](https://github.com/igloo1/CFBR/blob/gh-pages/PS3/digital.md) FOR DIGITAL COPY INSTRUCTIONS.
 
+###### ---------
 ###### If you already have HEN and multiMAN installed on your PS3, you can skip to step 2. If you have also copied your disc to your PS3's hard drive already while installing prior mods, you can skip all the way ahead to step 5.
+###### ---------
 
-#### Prerequisites
+### Prerequisites:
 - PS3 console (any model)
 - USB drive (8 GB or larger)
 - Some kind of computer (any Windows PC, Mac, or even Chromebook will work)
