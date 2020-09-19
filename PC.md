@@ -2,11 +2,23 @@
 title: PC Download
 ---
 
+# College Football Revamped - PC Download Instructions
+
 **Please uninstall any uniform packs when using this mod. We will fix this in the future, but using uniform packs with our mod can cause issues with uniforms appearing correctly.**
 
 Your PC mod download will automatically install a roster named **VIKES_CFBR**. This roster is optimized for the College Football Revamped Mod and designed to provide you with the best experience. Special thanks to Vikesfan and his team for making great rosters year after year over on the Operation Sports forums.
 
 [The latest roster updates can be found here.](https://forums.operationsports.com/forums/ncaa-football-rosters/964552-ncaa-football-14-2020-2021-roster-update.html)
+
+## SELECT YOUR GAME COPY (PHYSICAL DISC OR PSN STORE DIGITAL DOWNLOAD)
+| [![Physical Disc Copy](https://art.gametdb.com/ps3/discM/US/BLUS31159.png)](https://igloo1.github.io/CFBR/PC/disc)  | [![PSN Store Digital Copy](https://lh3.googleusercontent.com/proxy/wgGdcopYJApj2sHFfhrZxpyas7VoORl3PZm7y7x0H-hWHX2ympVCo_ivh9ZKcUtljoL5eDiGx3ElrSakkqInqx-VDQnMEwTPmWzjbjlmObye4aLo8XJmnXBn)](https://igloo1.github.io/CFBR/PC/digital)
+|:---:|:---:|
+| [Physical Disc Copy](https://igloo1.github.io/CFBR/PC/disc) | [PSN Store Digital Copy](https://igloo1.github.io/CFBR/digital) |
+
+
+
+
+
 
 ## PC (Disc Copy) <img width="40" src="https://i.redd.it/g5476jkjqgh31.jpg"> 
 ###### These instructions are for use with a disc copy of the game contents of NCAA Football 14 (game ID BLUS31159).
