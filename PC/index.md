@@ -1,7 +1,3 @@
----
-title: PC Download
----
-
 # College Football Revamped - PC Download Instructions
 
 ## Please uninstall any uniform packs when using this mod
